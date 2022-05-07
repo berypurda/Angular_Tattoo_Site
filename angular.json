@@ -31,7 +31,7 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "./node_modules/@angular/material/prebuilt-themes/pink-bluegrey.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -100,7 +100,7 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "./node_modules/@angular/material/prebuilt-themes/pink-bluegrey.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -112,8 +112,8 @@
             "prerender": false,
             "ssr": false,
             "browserTarget": "week-04:build:production",
-            "firebaseProject": "webfejl-2022",
-            "firebaseHostingSite": "webfejl-2022"
+            "firebaseProject": "tattoo-booking-site",
+            "firebaseHostingSite": "tattoo-booking-site"
           }
         }
       }

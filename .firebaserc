@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tattoo-booking-site": {
+      "hosting": {
+        "week-04": [
+          "tattoo-booking-site"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tattoo-booking-site"
+  }
+}
