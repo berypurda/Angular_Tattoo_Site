@@ -1,9 +1,9 @@
-<div class="slide">
+<div fxFlex fxLayout fxLayoutAlign="flex-end" class="slide">
   <ng-image-slider
     [images]="imgCollection"
     #nav
     [infinite]="true"
-    [imageSize]="{ width: 800, height: 900, space: 80 }"
+    [imageSize]="{ height: '75%', width: '50%' }"
     [autoSlide]="{ interval: 3, stopOnHover: false }"
   ></ng-image-slider>
 </div>
